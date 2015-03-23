@@ -22,7 +22,7 @@
   <url>http://www.unitsofmeasurement.org</url>
   <organization>
     <name>Units of Measurement project</name>
-    <url>http://code.google.com/p/unitsofmeasure</url>
+    <url>http://unitsofmeasurement.github.io/</url>
   </organization>
   <inceptionYear>2005</inceptionYear>
   <description>
@@ -35,18 +35,18 @@ This API specifies Java packages for the programmatic, type safe handling
   <licenses>
     <license>
       <name>BSD</name>
-      <url>http://unitsofmeasure.googlecode.com/svn/trunk/unit-api/LICENSE.txt</url>
+      <url>LICENSE.txt</url>
     </license>
   </licenses>
 
-  <!-- Issue managements and mailing lists. -->
   <scm>
-    <url>http://unitsofmeasure.googlecode.com/svn/trunk/</url>
+    <url>https://github.com/unitsofmeasurement/uom-legacy.git</url>
   </scm>
 
+  <!-- Issue managements and mailing lists. -->
   <issueManagement>
-    <system>Google Code</system>
-    <url>http://code.google.com/p/unitsofmeasure/issues/list</url>
+    <system>GitHub</system>
+    <url>https://github.com/unitsofmeasurement/uom-legacy/issues</url>
   </issueManagement>
   <ciManagement>
     <system>Jenkins</system>
@@ -76,8 +76,8 @@ This API specifies Java packages for the programmatic, type safe handling
       <id>dautelle</id>
       <name>Jean-Marie Dautelle</name>
       <email>jean-marie@dautelle.com</email>
-      <organization>Thales</organization>
-      <organizationUrl>http://www.thalesraytheon-fr.com</organizationUrl>
+      <organization>Airbus</organization>
+      <organizationUrl>http://www.airbus.com/</organizationUrl>
       <timezone>+1</timezone>
       <roles>
         <role>Architect</role>
