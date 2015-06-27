@@ -346,13 +346,13 @@ This API specifies Java packages for the programmatic, type safe handling
 				<groupId>org.apache.felix</groupId>
 				<artifactId>maven-bundle-plugin</artifactId>
 				<version>2.4.0</version>
-				<extensions>true</extensions>
+				<extensions>true</extensions><!-- 
 				<configuration>
 					<instructions>
 						<Export-Package>org.unitsofmeasurement.*</Export-Package>
 						<Private-Package>!*</Private-Package>
 					</instructions>
-				</configuration>
+				</configuration>  -->
 			</plugin>
 
 			<!-- Custom Javadoc plugin -->
