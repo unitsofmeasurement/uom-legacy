@@ -1,7 +1,7 @@
 # uom-legacy
 Automatically exported from code.google.com/p/unitsofmeasure
 
-[![Stability: Unsupported](https://masterminds.github.io/stability/unsupported.svg)](https://masterminds.github.io/stability/unsupported.html)
+![stability-frozen](https://img.shields.io/badge/stability-locked-blue.svg)
 
 ## Units of Measurement (Legacy)
 
